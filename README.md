@@ -9,7 +9,7 @@ Welcome to the Java Design Patterns Examples repository! Here, you'll find pract
     - [Running Examples in NetBeans](#running-examples-in-netbeans)
     - [Importing Zip File in NetBeans](#importing-zip-file-in-netbeans)
 3. [Contributing](#contributing)
-4. [License](#license)
+
 
 ## Design Patterns Included
 
